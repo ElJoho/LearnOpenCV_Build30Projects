@@ -2,7 +2,7 @@ import cv2
 
 import numpy as np
 
-image = cv2.imread("../../Images/shapes.png")
+image = cv2.imread("../Images/shapes.png")
 
 
 image_copy = image.copy()
